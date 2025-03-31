@@ -8,7 +8,7 @@ Thank you for your interest in contributing to **MSWord-Learning-Hub** – your 
 - [Reporting Issues](#reporting-issues)
 - [Submitting Pull Requests](#submitting-pull-requests)
 - [Style Guidelines](#style-guidelines)
-- [SEO and Content Guidelines](#seo-and-content-guidelines)
+- [Content Guidelines](#content-guidelines)
 - [Community and Support](#community-and-support)
 - [License](#license)
 
@@ -67,7 +67,7 @@ When submitting a PR, please ensure:
 - Your code or documentation is well-commented and adheres to the **MS Word Guide** style.
 - You have tested your changes locally.
 - The PR description clearly explains your changes and the motivation behind them.
-- Any SEO enhancements use targeted keywords such as **"Learn MS Word," "MS Word Guide," "Word Tutorials,"** and **"MS Word tips & tricks"**.
+- Any enhancements use targeted keywords such as **"Learn MS Word," "MS Word Guide," "Word Tutorials,"** and **"MS Word tips & tricks"**.
 
 ## Style Guidelines
 
@@ -77,10 +77,10 @@ To maintain a consistent, high-quality project:
 - **Images and Videos:** When adding new visual content, include descriptive alt text for images and embed relevant video tutorials.
 - **Documentation:** Ensure all content is well-organized and includes SEO-friendly keywords to improve discoverability.
 
-## SEO and Content Guidelines
+## Content Guidelines
 
 To help our repository rank well in search engines:
-- Include **SEO keywords** naturally in your content (e.g., **"Learn MS Word," "MS Word Guide," "Word Tutorials," "MS Word tips & tricks"**).
+- Include **keywords** naturally in your content (e.g., **"Learn MS Word," "MS Word Guide," "Word Tutorials," "MS Word tips & tricks"**).
 - Use descriptive titles and meta descriptions in documentation.
 - Link to authoritative external resources, such as [Microsoft Word Official Documentation](https://support.microsoft.com/en-us/word), where applicable.
 - Structure content with a clear Table of Contents for better readability and indexability.
@@ -100,9 +100,4 @@ By contributing, you agree that your contributions will be licensed under the **
 
 Thank you for helping make **MSWord-Learning-Hub** the ultimate resource for learning and mastering Microsoft Word! Your contributions make a real difference in helping others **Learn MS Word** and improve their **Word tutorials** experience.
 
-Happy Contributing! 🚀
-```
-
----
-
-This **CONTRIBUTING.md** file is designed to be comprehensive, SEO-friendly, and easy to understand, ensuring that all contributors know exactly how to help improve the project while keeping content aligned with targeted keywords. Let me know if you need further modifications or additions!
+## Happy Contributing! 🚀
