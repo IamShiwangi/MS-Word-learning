@@ -22,5 +22,3 @@ Attach screenshots to help explain your issue.
 
 ### **Additional Context**
 Any other relevant information.
-
-Add any other context about the problem here.
